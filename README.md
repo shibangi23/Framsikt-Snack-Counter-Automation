@@ -1,5 +1,4 @@
 # Snack Counter Automation
-
 Core logic for keeping the Oslo and Bengaluru snack counters stocked by volunteers.
 The system automates **coordination, not shopping**: it detects an empty box, offers the job to
 one fairly chosen volunteer, tracks a deadline, files the HR reimbursement claim exactly once and
